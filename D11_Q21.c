@@ -19,7 +19,7 @@ December, 31 days
 int main()
 {
     int month;
-    printf("Enter month number (1-12): ");
+    printf("Enter month number (1-12): ") ;
     scanf("%d", &month);
     switch (month)
     {
@@ -64,3 +64,4 @@ int main()
     }
     return 0;
 }
+
