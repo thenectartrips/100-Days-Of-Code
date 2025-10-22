@@ -23,7 +23,7 @@ Bill: ₹2200
 
 int main(){
     int units;
-    printf("Enter the number of units consumed: ");
+    printf("Enter the number of units consumed: ") ;
     scanf("%d", &units);
     if (units <= 100){
         printf("Bill: ₹%d\n", units * 5);
@@ -36,4 +36,5 @@ int main(){
     }
 
     return 0;
+
 }
