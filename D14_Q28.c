@@ -21,7 +21,7 @@ int main()
     int n;
     long double product = 1;
 
-    printf("Enter the value of n : ");
+    printf("Enter the value of n : ") ;
     scanf("%d", &n);
 
     for (int i = 2; i <= n; i += 2)
@@ -33,3 +33,4 @@ int main()
 
     return 0;
 }
+
