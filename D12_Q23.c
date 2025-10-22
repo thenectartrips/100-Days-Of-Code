@@ -29,7 +29,7 @@ Membership Cancelled
 int main()
 {
     int days;
-    printf("Enter the number of days late: ");
+    printf("Enter the number of days late: ") ;
     scanf("%d", &days);
     if (days <= 5)
     {
@@ -61,4 +61,5 @@ int main()
     }
 
     return 0;
+
 }
