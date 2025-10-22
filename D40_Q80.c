@@ -22,15 +22,15 @@ Output 1:
 {
     int r1, c1, r2, c2;
 
-    printf("Enter rows and columns of first matrix: ");
+    printf("Enter rows and columns of first matrix: ") ;
     scanf("%d %d", &r1, &c1);
 
-    printf("Enter rows and columns of second matrix: ");
+    printf("Enter rows and columns of second matrix: ") ;
     scanf("%d %d", &r2, &c2);
 
     if (c1 != r2)
     {
-        printf("Matrix multiplication not possible!\n");
+        printf("Matrix multiplication not possible!\n") ;
         return 0;
     }
 
@@ -85,3 +85,4 @@ Output 1:
 
     return 0;
 }
+
