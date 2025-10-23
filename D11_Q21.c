@@ -24,7 +24,7 @@ int main()
     switch (month)
     {
     case 1:
-        printf("January with 31 days\n");
+        printf("January with 31 days\n") ;
         break;
     case 2:
         printf("February with 28 days\n");
@@ -64,4 +64,5 @@ int main()
     }
     return 0;
 }
+
 
