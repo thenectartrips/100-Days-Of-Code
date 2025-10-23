@@ -33,7 +33,7 @@ int main()
     scanf("%d", &days);
     if (days <= 5)
     {
-        printf("Fine ₹%d\n", days * 2);
+        printf("Fine ₹%d\n", days * 2) ;
     }
     else if (days <= 10)
     {
@@ -63,3 +63,4 @@ int main()
     return 0;
 
 }
+
