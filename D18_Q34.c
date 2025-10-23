@@ -19,7 +19,7 @@ Not prime
 int main()
 {
     int num, i, initial = 0;
-    printf("Enter a positive integer: ");
+    printf("Enter a positive integer: ") ;
     scanf("%d", &num);
 
     for (i = 2; i <= num / 2; i++)
@@ -49,3 +49,4 @@ int main()
 
     return 0;
 }
+
