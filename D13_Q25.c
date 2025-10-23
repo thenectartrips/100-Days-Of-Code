@@ -34,7 +34,7 @@ int main()
     switch (operator)
     {
     case '+':
-        printf("%.1f + %.1f = %.1f", num1, num2, num1 + num2);
+        printf("%.1f + %.1f = %.1f", num1, num2, num1 + num2) ;
         break;
     case '-':
         printf("%.1f - %.1f = %.1f", num1, num2, num1 - num2);
@@ -59,4 +59,5 @@ int main()
     }
     return 0;
 }
+
 
