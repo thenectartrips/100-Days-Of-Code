@@ -26,12 +26,13 @@ int main()
 
     for (int i = 2; i <= n; i += 2)
     {
-        product *= i;
+        product *= i ;
     }
 
     printf("The product of even numbers from 1 to %d is : %Lf\n", n, product) ;
 
     return 0;
 }
+
 
 
