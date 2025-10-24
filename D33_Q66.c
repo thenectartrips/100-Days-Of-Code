@@ -17,7 +17,7 @@ int main()
 {
     int arr[50], n, key, i;
 
-    printf("Enter number of elements: ");
+    printf("Enter number of elements: ") ;
     scanf("%d", &n);
 
     printf("Enter %d sorted elements: ", n);
@@ -47,3 +47,4 @@ int main()
 
     return 0;
 }
+
