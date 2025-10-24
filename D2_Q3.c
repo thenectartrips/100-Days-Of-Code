@@ -19,7 +19,7 @@ Area=21, Perimeter=20
 int main()
 {
     int length, breadth;
-    printf("Enter The Length = ");
+    printf("Enter The Length = ") ;
     scanf("%d", &length);
 
     printf("Enter The Breadth = ");
@@ -29,3 +29,4 @@ int main()
     printf("The Perimeter of the Rectangle is = %d", 2 * (length + breadth));
     return 0;
 }
+
