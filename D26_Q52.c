@@ -41,7 +41,7 @@ int main()
         {
             printf("*\n");
         }
-        printf("\n");
+        printf("\n") ;
     }
 
     for (i = 4; i >= 1; i--)
@@ -55,3 +55,4 @@ int main()
 
     return 0;
 }
+
