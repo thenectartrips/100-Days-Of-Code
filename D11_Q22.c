@@ -24,7 +24,7 @@ No Profit No Loss
 int main()
 {
     float cost_price, selling_price;
-    printf("Enter Cost Price and Selling Price: ");
+    printf("Enter Cost Price and Selling Price: ") ;
     scanf("%f %f", &cost_price, &selling_price);
 
     if (selling_price > cost_price)
@@ -45,4 +45,5 @@ int main()
     }
 
     return 0;
+
 }
