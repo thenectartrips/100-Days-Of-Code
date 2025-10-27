@@ -26,7 +26,7 @@ int main(){
     printf("Enter the number of units consumed: ") ;
     scanf("%d", &units);
     if (units <= 100){
-        printf("Bill: ₹%d\n", units * 5);
+        printf("Bill: ₹%d\n", units * 5) ;
     }
     else if (units <= 200){
         printf("Bill: ₹%d\n", (100 * 5) + (units - 100) * 8);
@@ -38,3 +38,4 @@ int main(){
     return 0;
 
 }
+
