@@ -19,7 +19,7 @@ Friday
 int main()
 {
     int day;
-    printf("Enter a number (1-7): ");
+    printf("Enter a number (1-7): ") ;
     scanf("%d", &day);
 
     switch (day)
@@ -50,4 +50,5 @@ int main()
         break;
     }
     return 0;
+
 }
