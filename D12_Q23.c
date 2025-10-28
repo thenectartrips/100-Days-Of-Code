@@ -41,7 +41,7 @@ int main()
     }
     else if (days <= 15)
     {
-        printf("Fine ₹%d\n", days * 6);
+        printf("Fine ₹%d\n", days * 6) ;
     }
     else if (days <= 20)
     {
@@ -63,5 +63,6 @@ int main()
     return 0;
 
 }
+
 
 
