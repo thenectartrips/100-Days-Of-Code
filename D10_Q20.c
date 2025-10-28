@@ -25,7 +25,7 @@ int main()
     switch (day)
     {
     case 1:
-        printf("Monday\n");
+        printf("Monday\n") ;
         break;
     case 2:
         printf("Tuesday\n");
@@ -52,3 +52,4 @@ int main()
     return 0;
 
 }
+
