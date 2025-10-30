@@ -23,7 +23,8 @@ int main(){
     for(int i=1; i<=n; i++){
         sum += (2*i - 1);
     }
-    printf("The sum of first %d odd numbers is : %d\n", n, sum);
+    printf("The sum of first %d odd numbers is : %d\n", n, sum) ;
     return 0;
 }
+
 
