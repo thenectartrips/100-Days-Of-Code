@@ -24,6 +24,7 @@ int main(){
         reverse_number= reverse_number * 10 + i;    
         n = n / 10;         
     }
-    printf("Reversed number = %d\n", reverse_number);
+    printf("Reversed number = %d\n", reverse_number) ;
     return 0;
 }
+
