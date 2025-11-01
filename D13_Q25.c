@@ -26,7 +26,7 @@ int main()
     float num1, num2;
     char operator;
     printf("Enter two numbers = ") ;
-    scanf("%f %f", &num1, &num2);
+    scanf("%f %f", &num1, &num2) ;
 
     printf("Enter the operation you want to perform (+, -, *, /, %) = ") ;
     scanf(" %c", &operator) ;
@@ -59,6 +59,7 @@ int main()
     }
     return 0;
 }
+
 
 
 
