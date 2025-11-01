@@ -18,7 +18,7 @@ Not palindrome
 
 int main(){
     int num , input_number , reversed_number = 0, remainder;
-    printf("Enter an integer: ");
+    printf("Enter an integer: ") ;
     scanf("%d", &num);
     input_number = num; 
     while (num != 0){
@@ -28,4 +28,5 @@ int main(){
     }
     printf("Reversed Number = %d\n", reversed_number);
     return 0;
+
 }
