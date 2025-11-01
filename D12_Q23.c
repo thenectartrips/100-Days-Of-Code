@@ -30,7 +30,7 @@ int main()
 {
     int days;
     printf("Enter the number of days late: ") ;
-    scanf("%d", &days);
+    scanf("%d", &days) ;
     if (days <= 5)
     {
         printf("Fine ₹%d\n", days * 2) ;
@@ -63,6 +63,7 @@ int main()
     return 0;
 
 }
+
 
 
 
