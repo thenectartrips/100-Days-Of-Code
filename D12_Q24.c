@@ -35,9 +35,10 @@ int main(){
         printf("Bill: ₹%d\n", (100 * 5) + (100 * 8) + (units - 200) * 10) ;
     }
 
-    return 0;
+    return 0 ;
 
 }
+
 
 
 
