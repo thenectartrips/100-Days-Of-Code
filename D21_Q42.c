@@ -20,7 +20,7 @@ int main()
 {
     int num, i, sum = 0;
 
-    printf("Enter a number: ");
+    printf("Enter a number: ") ;
     scanf("%d", &num);
 
     for (i = 1; i <= num / 2; i++)
@@ -36,3 +36,4 @@ int main()
 
     return 0;
 }
+
