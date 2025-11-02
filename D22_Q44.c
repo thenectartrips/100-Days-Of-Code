@@ -36,8 +36,9 @@ int main()
             denominator += 2;
     }
 
-    printf("Sum of the series up to %d terms = %.2f\n", n, sum);
+    printf("Sum of the series up to %d terms = %.2f\n", n, sum) ;
 
     return 0;
 }
+
 
