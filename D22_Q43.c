@@ -20,7 +20,7 @@ int main()
 {
     int num, originalNum, temp, digit, digits = 0, sum = 0;
 
-    printf("Enter a number: ");
+    printf("Enter a number: ") ;
     scanf("%d", &num);
 
     originalNum = num;
@@ -55,3 +55,4 @@ int main()
 
     return 0;
 }
+
