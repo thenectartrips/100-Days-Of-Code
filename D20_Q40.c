@@ -21,7 +21,7 @@ int main()
     long long num, result = 0, place = 1; 
     int digit;
 
-    printf("Enter a binary number: ");
+    printf("Enter a binary number: ") ;
     scanf("%lld", &num);
 
     while (num > 0)
@@ -43,3 +43,4 @@ int main()
     printf("1's complement: %lld\n", result);
     return 0;
 }
+
