@@ -29,8 +29,9 @@ int main()
         sum += (float)(2 * i) / (4 * i - 1);
     }
 
-    printf("Sum of the series up to %d terms = %.4f\n", n, sum);
+    printf("Sum of the series up to %d terms = %.4f\n", n, sum) ;
 
     return 0;
 }
+
 
