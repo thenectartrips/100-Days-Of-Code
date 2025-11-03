@@ -18,7 +18,7 @@ Output 2:
 
 int main()
 {
-    int num, temp, first, last, pow = 1;
+    int num, temp, first, last, pow = 1 ;
 
     printf("Enter a number: ") ;
     scanf("%d", &num);
@@ -47,4 +47,5 @@ int main()
 
     return 0;
 }
+
 
