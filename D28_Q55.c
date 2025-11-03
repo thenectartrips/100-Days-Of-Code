@@ -18,7 +18,7 @@ Output 2:
 int main()
 {
     int num, i, j, prime;
-    printf("Enter a number: ");
+    printf("Enter a number: ") ;
     scanf("%d", &num);
     printf("Prime numbers from 1 to %d are: ", num);
     for (i = 2; i <= num; i++)
@@ -40,4 +40,5 @@ int main()
     printf("\n");
 
     return 0;
+
 }
