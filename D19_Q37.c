@@ -17,7 +17,7 @@ Output 2:
 int main()
 {
     int num1, num2, maximum, lcm;
-    printf("Enter two positive integers: ");
+    printf("Enter two positive integers: ") ;
     scanf("%d %d", &num1, &num2);
     maximum = (num1 > num2) ? num1 : num2;
     while (1)
@@ -33,3 +33,4 @@ int main()
     printf("LCM of %d and %d is: %d", num1, num2, lcm);
     return 0;
 }
+
