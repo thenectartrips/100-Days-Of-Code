@@ -18,7 +18,7 @@ Not strong number
 
 int main()
 {
-    int num, originalNum, temp, digit, digits = 0, sum = 0;
+    int num, originalNum, temp, digit, digits = 0, sum = 0 ;
 
     printf("Enter a number: ") ;
     scanf("%d", &num);
@@ -55,4 +55,5 @@ int main()
 
     return 0;
 }
+
 
