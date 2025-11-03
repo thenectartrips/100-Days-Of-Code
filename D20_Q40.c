@@ -18,7 +18,7 @@ Output 2:
 
 int main()
 {
-    long long num, result = 0, place = 1; 
+    long long num, result = 0, place = 1 ; 
     int digit;
 
     printf("Enter a binary number: ") ;
@@ -43,4 +43,5 @@ int main()
     printf("1's complement: %lld\n", result);
     return 0;
 }
+
 
