@@ -30,7 +30,7 @@ int main()
     if (selling_price > cost_price)
     {
         float profit = selling_price - cost_price;
-        float profit_percentage = (profit / cost_price) * 100;
+        float profit_percentage = (profit / cost_price) * 100 ;
         printf("Profit = %.2f%%\n", profit_percentage) ;
     }
     else if (cost_price > selling_price)
@@ -47,5 +47,6 @@ int main()
     return 0;
 
 }
+
 
 
