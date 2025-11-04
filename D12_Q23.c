@@ -53,7 +53,7 @@ int main()
     }
     else if (days <= 30)
     {
-        printf("Membership Cancelled\n");
+        printf("Membership Cancelled\n") ;
     }
     else
     {
@@ -63,6 +63,7 @@ int main()
     return 0;
 
 }
+
 
 
 
