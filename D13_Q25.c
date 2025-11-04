@@ -23,7 +23,7 @@ Output 3:
 
 int main()
 {
-    float num1, num2;
+    float num1, num2 ;
     char operator;
     printf("Enter two numbers = ") ;
     scanf("%f %f", &num1, &num2) ;
@@ -59,6 +59,7 @@ int main()
     }
     return 0;
 }
+
 
 
 
