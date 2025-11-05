@@ -19,7 +19,7 @@ Output 2:
 int main()
 {
     int n;
-    long double product = 1;
+    long double product = 1 ;
 
     printf("Enter the value of n : ") ;
     scanf("%d", &n);
@@ -33,6 +33,7 @@ int main()
 
     return 0;
 }
+
 
 
 
