@@ -18,7 +18,7 @@ Output 2:
 int main(){
     int n, i, factorial = 1 ;
     printf("Enter a number: ") ;
-    scanf("%d", &n);
+    scanf("%d", &n) ;
     if (n < 0) 
     {
         printf("Factorial is not defined") ;
@@ -31,6 +31,7 @@ int main(){
     }
     return 0;
 }
+
 
 
 
