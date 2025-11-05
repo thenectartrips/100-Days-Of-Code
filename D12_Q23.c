@@ -57,12 +57,13 @@ int main()
     }
     else
     {
-        printf("Entry Restricted\n");
+        printf("Entry Restricted\n") ;
     }
 
     return 0;
 
 }
+
 
 
 
