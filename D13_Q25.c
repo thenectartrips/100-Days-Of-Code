@@ -44,7 +44,7 @@ int main()
         break;
     case '/':
         if (num2 != 0)
-            printf("%.1f / %.1f = %.1f", num1, num2, num1 / num2);
+            printf("%.1f / %.1f = %.1f", num1, num2, num1 / num2) ;
         else
             printf("Error: Division by zero is not allowed.");
         break;
@@ -59,6 +59,7 @@ int main()
     }
     return 0;
 }
+
 
 
 
