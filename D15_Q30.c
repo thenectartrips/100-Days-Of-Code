@@ -18,7 +18,7 @@ Output 2:
 int main(){
     int n, reverse_number = 0,i; 
     printf("Enter a number: ") ;
-    scanf("%d", &n);
+    scanf("%d", &n) ;
     while (n!= 0){
         i = n % 10;          
         reverse_number= reverse_number * 10 + i;    
@@ -27,5 +27,6 @@ int main(){
     printf("Reversed number = %d\n", reverse_number) ;
     return 0;
 }
+
 
 
