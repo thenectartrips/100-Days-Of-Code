@@ -26,7 +26,7 @@ int main()
 
     if (num == 0)
     {
-        printf("Product of odd digits: 0\n");
+        printf("Product of odd digits: 0\n") ;
         return 0;
     }
 
@@ -53,3 +53,4 @@ int main()
 
     return 0;
 }
+
