@@ -39,7 +39,7 @@ int main()
 
     if ((int)result == num)
     {
-        printf("%d is an Armstrong number.", num);
+        printf("%d is an Armstrong number.", num) ;
     }
     else
     {
@@ -47,4 +47,5 @@ int main()
     }
 
     return 0;
+
 }
