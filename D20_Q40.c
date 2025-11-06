@@ -22,7 +22,7 @@ int main()
     int digit;
 
     printf("Enter a binary number: ") ;
-    scanf("%lld", &num);
+    scanf("%lld", &num) ;
 
     while (num > 0)
     {
@@ -43,5 +43,6 @@ int main()
     printf("1's complement: %lld\n", result);
     return 0;
 }
+
 
 
