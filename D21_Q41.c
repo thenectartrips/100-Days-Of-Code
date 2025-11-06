@@ -36,7 +36,7 @@ int main()
 
     if (num < 10)
     {
-        printf("Swapped number: %d\n", num);
+        printf("Swapped number: %d\n", num) ;
         return 0;
     }
 
@@ -47,5 +47,6 @@ int main()
 
     return 0;
 }
+
 
 
