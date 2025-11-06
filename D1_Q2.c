@@ -22,7 +22,7 @@ int main() {
     float quotient;
 
     
-    printf("Enter first number: ");
+    printf("Enter first number: ") ;
     scanf("%d", &num1);
 
     printf("Enter second number: ");
@@ -52,3 +52,4 @@ int main() {
 
     return 0;
 }
+
