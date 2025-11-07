@@ -42,7 +42,7 @@ int main()
         printf("June with 30 days\n") ;
         break;
     case 7:
-        printf("July with 31 days\n");
+        printf("July with 31 days\n") ;
         break;
     case 8:
         printf("August with 31 days\n");
@@ -64,6 +64,7 @@ int main()
     }
     return 0;
 }
+
 
 
 
