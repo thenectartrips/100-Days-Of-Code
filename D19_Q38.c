@@ -18,7 +18,7 @@ Output 2:
 int main()
 {
     int num, sum = 0, last;
-    printf("Enter a number: ");
+    printf("Enter a number: ") ;
     scanf("%d", &num);
 
     while (num != 0)
@@ -29,4 +29,5 @@ int main()
     }
     printf("Sum of digits: %d\n", sum);
     return 0;
+
 }
