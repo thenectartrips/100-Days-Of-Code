@@ -25,7 +25,7 @@ int main() {
     printf("Enter first number: ") ;
     scanf("%d", &num1);
 
-    printf("Enter second number: ");
+    printf("Enter second number: ") ;
     scanf("%d", &num2);
 
     
@@ -52,4 +52,5 @@ int main() {
 
     return 0;
 }
+
 
