@@ -21,7 +21,7 @@ int main()
 {
     int num, originalNum, remainder, n = 0;
     float result = 0.0;
-    printf("Enter an integer: ");
+    printf("Enter an integer: ") ;
     scanf("%d", &num);
     originalNum = num;
 
@@ -49,3 +49,4 @@ int main()
     return 0;
 
 }
+
