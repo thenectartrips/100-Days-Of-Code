@@ -25,8 +25,9 @@ int main(){
         n = n / 10;         
     }
     printf("Reversed number = %d\n", reverse_number) ;
-    return 0;
+    return 0 ;
 }
+
 
 
 
