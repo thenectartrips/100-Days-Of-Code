@@ -27,10 +27,11 @@ int main(){
         for (i = 1; i <= n; i++) {
             factorial = factorial*i;
         }
-        printf("Factorial Of %d Is %d\n", n, factorial);
+        printf("Factorial Of %d Is %d\n", n, factorial) ;
     }
     return 0;
 }
+
 
 
 
