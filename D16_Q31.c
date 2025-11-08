@@ -26,9 +26,10 @@ int main(){
         n = n / 2;         
         place *= 10;
     }
-    printf("Binary representation = %d\n", binary_number);
+    printf("Binary representation = %d\n", binary_number) ;
 
 
     return 0;
 
 }
+
