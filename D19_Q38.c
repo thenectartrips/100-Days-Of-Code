@@ -19,7 +19,7 @@ int main()
 {
     int num, sum = 0, last;
     printf("Enter a number: ") ;
-    scanf("%d", &num);
+    scanf("%d", &num) ;
 
     while (num != 0)
     {
@@ -31,3 +31,4 @@ int main()
     return 0;
 
 }
+
