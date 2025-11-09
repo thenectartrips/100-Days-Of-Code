@@ -21,7 +21,7 @@ int main()
     int product = 1;
     int hasOdd = 0;
 
-    printf("Enter a number: ");
+    printf("Enter a number: ") ;
     scanf("%d", &num);
 
     if (num == 0)
@@ -53,4 +53,5 @@ int main()
 
     return 0;
 }
+
 
