@@ -21,7 +21,7 @@ int main()
     int num, originalNum, temp, digit, digits = 0, sum = 0 ;
 
     printf("Enter a number: ") ;
-    scanf("%d", &num);
+    scanf("%d", &num) ;
 
     originalNum = num;
     temp = num;
@@ -55,5 +55,6 @@ int main()
 
     return 0;
 }
+
 
 
