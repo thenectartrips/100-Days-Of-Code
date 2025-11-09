@@ -23,7 +23,7 @@ int main()
     int numerator = 1, denominator = 1;
 
     printf("Enter the number of terms: ") ;
-    scanf("%d", &n);
+    scanf("%d", &n) ;
 
     for (i = 1; i <= n; i++)
     {
@@ -40,5 +40,6 @@ int main()
 
     return 0;
 }
+
 
 
