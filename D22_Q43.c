@@ -29,7 +29,7 @@ int main()
     while (temp > 0)
     {
         digits++;
-        temp /= 10;
+        temp /= 10 ;
     }
 
     temp = num;
@@ -55,6 +55,7 @@ int main()
 
     return 0;
 }
+
 
 
 
