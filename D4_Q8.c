@@ -19,10 +19,11 @@ Sum=55
 int main()
 {
     int num1, sum;
-    printf("Enter a number: ");
+    printf("Enter a number: ") ;
     scanf("%d", &num1);
 
     sum = (num1 * (num1 + 1)) / 2;
     printf("Sum of first %d natural numbers = %d\n", num1, sum);
     return 0;
+
 }
