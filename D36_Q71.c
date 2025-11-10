@@ -19,7 +19,7 @@ int main()
     int a[5][5];
     int i, j, rows, cols;
 
-    scanf("%d %d", &rows, &cols);
+    scanf("%d %d", &rows, &cols) ;
 
     for (i = 0; i < rows; i++)
     {
@@ -39,4 +39,5 @@ int main()
     }
 
     return 0;
+
 }
