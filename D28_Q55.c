@@ -20,7 +20,7 @@ int main()
     int num, i, j, prime;
     printf("Enter a number: ") ;
     scanf("%d", &num);
-    printf("Prime numbers from 1 to %d are: ", num);
+    printf("Prime numbers from 1 to %d are: ", num) ;
     for (i = 2; i <= num; i++)
     {
         prime = 1;
@@ -42,3 +42,4 @@ int main()
     return 0;
 
 }
+
