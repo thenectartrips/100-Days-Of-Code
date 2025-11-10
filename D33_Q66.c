@@ -26,7 +26,7 @@ int main()
         scanf("%d", &arr[i]);
     }
 
-    printf("Enter element to insert: ");
+    printf("Enter element to insert: ") ;
     scanf("%d", &key);
 
     i = n - 1;
@@ -47,4 +47,5 @@ int main()
 
     return 0;
 }
+
 
