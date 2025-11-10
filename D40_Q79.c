@@ -17,7 +17,7 @@ Output 1:
 int main()
 {
     int n;
-    printf("Enter size of square matrix: ");
+    printf("Enter size of square matrix: ") ;
     scanf("%d", &n);
 
     int a[n][n];
@@ -58,3 +58,4 @@ int main()
 
     return 0;
 }
+
