@@ -26,7 +26,7 @@ int main()
 {
     float a, b, c, Discriminant, root1, root2, RealPart, ImaginaryPart;
 
-    printf("Enter a, b and c: ");
+    printf("Enter a, b and c: ") ;
     scanf("%f %f %f", &a, &b, &c);
 
     if (a == 0)
@@ -63,3 +63,4 @@ int main()
 
     return 0;
 }
+
