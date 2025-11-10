@@ -37,7 +37,7 @@ int main()
         printf("Thursday\n") ;
         break;
     case 5:
-        printf("Friday\n");
+        printf("Friday\n") ;
         break;
     case 6:
         printf("Saturday\n");
@@ -52,6 +52,7 @@ int main()
     return 0;
 
 }
+
 
 
 
