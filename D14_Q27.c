@@ -24,8 +24,9 @@ int main(){
         sum += (2*i - 1) ;
     }
     printf("The sum of first %d odd numbers is : %d\n", n, sum) ;
-    return 0;
+    return 0 ;
 }
+
 
 
 
