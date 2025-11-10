@@ -19,7 +19,7 @@ int main()
     int a[50], b[50], c[100];
     int n1, n2, i, j;
 
-    printf("Enter number of elements in first array: ");
+    printf("Enter number of elements in first array: ") ;
     scanf("%d", &n1);
 
     printf("Enter elements of first array:\n");
@@ -55,3 +55,4 @@ int main()
 
     return 0;
 }
+
