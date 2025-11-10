@@ -29,7 +29,7 @@ Grade F
 int main()
 {
     int percentage;
-    printf("Enter the percentage: ");
+    printf("Enter the percentage: ") ;
     scanf("%d", &percentage);
 
     if (percentage > 100 || percentage < 0)
@@ -63,3 +63,4 @@ int main()
 
     return 0;
 }
+
