@@ -21,7 +21,7 @@ int main()
     int num, temp, first, last, pow = 1 ;
 
     printf("Enter a number: ") ;
-    scanf("%d", &num);
+    scanf("%d", &num) ;
 
     temp = num;
     last = temp % 10;
@@ -47,6 +47,7 @@ int main()
 
     return 0;
 }
+
 
 
 
