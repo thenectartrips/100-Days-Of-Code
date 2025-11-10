@@ -15,7 +15,7 @@ Output 1:
 int main()
 {
     int n;
-    printf("Enter the size of the array: ");
+    printf("Enter the size of the array: ") ;
     scanf("%d", &n);
 
     int arr[n];
@@ -52,3 +52,4 @@ int main()
 
     return 0;
 }
+
