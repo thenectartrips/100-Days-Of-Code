@@ -29,8 +29,9 @@ int main(){
         }
         printf("Factorial Of %d Is %d\n", n, factorial) ;
     }
-    return 0;
+    return 0 ;
 }
+
 
 
 
