@@ -16,7 +16,7 @@ int main()
 {
     int n, i, pos = 0, neg = 0, zero = 0;
 
-    printf("Enter the number of elements: ");
+    printf("Enter the number of elements: ") ;
     scanf("%d", &n);
 
     int arr[n];
@@ -43,3 +43,4 @@ int main()
 
     return 0;
 }
+
