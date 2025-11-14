@@ -19,7 +19,7 @@ Not palindrome
 int main(){
     int num , input_number , reversed_number = 0, remainder;
     printf("Enter an integer: ") ;
-    scanf("%d", &num);
+    scanf("%d", &num) ;
     input_number = num; 
     while (num != 0){
         remainder = num % 10;
@@ -30,3 +30,4 @@ int main(){
     return 0;
 
 }
+
