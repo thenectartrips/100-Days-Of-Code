@@ -23,7 +23,7 @@ int main()
     printf("Enter a number: ") ;
     scanf("%d", &num) ;
 
-    originalNum = num;
+    originalNum = num ;
     temp = num;
 
     while (temp > 0)
@@ -55,6 +55,7 @@ int main()
 
     return 0;
 }
+
 
 
 
