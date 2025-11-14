@@ -24,11 +24,12 @@ int main()
     while (num != 0)
     {
         last = num % 10;
-        sum += last;
+        sum += last ;
         num /= 10;
     }
     printf("Sum of digits: %d\n", sum);
     return 0;
 
 }
+
 
