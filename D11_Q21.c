@@ -20,7 +20,7 @@ int main()
 {
     int month;
     printf("Enter month number (1-12): ") ;
-    scanf("%d", &month);
+    scanf("%d", &month) ;
     switch (month)
     {
     case 1:
@@ -64,6 +64,7 @@ int main()
     }
     return 0;
 }
+
 
 
 
