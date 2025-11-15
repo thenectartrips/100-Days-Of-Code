@@ -18,7 +18,7 @@ Output 2:
 
 int main()
 {
-    int n, i;
+    int n, i ;
 
     printf("Enter the value of n: ") ;
     scanf("%d", &n) ;
@@ -30,6 +30,7 @@ int main()
 
     return 0 ;
 }
+
 
 
 
