@@ -22,7 +22,7 @@ Bill: ₹2200
 #include <stdio.h>
 
 int main(){
-    int units;
+    int units ;
     printf("Enter the number of units consumed: ") ;
     scanf("%d", &units) ;
     if (units <= 100){
@@ -38,6 +38,7 @@ int main(){
     return 0 ;
 
 }
+
 
 
 
