@@ -36,7 +36,7 @@ int main()
     else if (cost_price > selling_price)
     {
         float loss = cost_price - selling_price;
-        float loss_percentage = (loss / cost_price) * 100;
+        float loss_percentage = (loss / cost_price) * 100 ;
         printf("Loss = %.2f%%\n", loss_percentage) ;
     }
     else
@@ -47,6 +47,7 @@ int main()
     return 0;
 
 }
+
 
 
 
