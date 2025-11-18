@@ -17,7 +17,7 @@ Output 2:
 #include <stdio.h>
 
 int main(){
-    int num, i;
+    int num, i ;
     printf("Enter a positive integer: ");
     scanf("%d" , &num);
     printf("Factors of %d are: ", num);
@@ -27,4 +27,5 @@ int main(){
         }
     }   
     return 0;
+
 }
