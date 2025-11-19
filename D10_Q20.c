@@ -20,7 +20,7 @@ int main()
 {
     int day;
     printf("Enter a number (1-7): ") ;
-    scanf("%d", &day);
+    scanf("%d", &day) ;
 
     switch (day)
     {
@@ -52,6 +52,7 @@ int main()
     return 0;
 
 }
+
 
 
 
