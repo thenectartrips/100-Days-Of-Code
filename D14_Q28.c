@@ -18,7 +18,7 @@ Output 2:
 
 int main()
 {
-    int n;
+    int n ;
     long double product = 1 ;
 
     printf("Enter the value of n : ") ;
@@ -33,6 +33,7 @@ int main()
 
     return 0 ;
 }
+
 
 
 
