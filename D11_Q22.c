@@ -23,7 +23,7 @@ No Profit No Loss
 
 int main()
 {
-    float cost_price, selling_price;
+    float cost_price, selling_pric e;
     printf("Enter Cost Price and Selling Price: ") ;
     scanf("%f %f", &cost_price, &selling_price);
 
@@ -47,6 +47,7 @@ int main()
     return 0;
 
 }
+
 
 
 
