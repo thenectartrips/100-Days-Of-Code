@@ -38,7 +38,7 @@ int main()
         break ;
     case '-':
         printf("%.1f - %.1f = %.1f", num1, num2, num1 - num2) ;
-        break;
+        break ;
     case '*':
         printf("%.1f * %.1f = %.1f", num1, num2, num1 * num2) ;
         break;
@@ -59,6 +59,7 @@ int main()
     }
     return 0;
 }
+
 
 
 
