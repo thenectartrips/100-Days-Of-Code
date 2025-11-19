@@ -17,7 +17,7 @@ Output 2:
 #include <stdio.h>
 
 int main(){
-    int n, binary_number = 0, place = 1, remainder; 
+    int n, binary_number = 0, place = 1, remainder ; 
     printf("Enter a number: ") ;
     scanf("%d", &n);
     while (n != 0){
@@ -32,4 +32,5 @@ int main(){
     return 0;
 
 }
+
 
