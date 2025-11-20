@@ -22,11 +22,12 @@ int main(){
     while (n!= 0){
         i = n % 10 ;          
         reverse_number= reverse_number * 10 + i ;    
-        n = n / 10;         
+        n = n / 10 ;         
     }
     printf("Reversed number = %d\n", reverse_number) ;
     return 0 ;
 }
+
 
 
 
