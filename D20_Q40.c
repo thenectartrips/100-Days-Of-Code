@@ -26,7 +26,7 @@ int main()
 
     while (num > 0)
     {
-        digit = num % 10;
+        digit = num % 10 ;
         if (digit == 0)
             result += 1 * place;
         else if (digit == 1)
@@ -43,6 +43,7 @@ int main()
     printf("1's complement: %lld\n", result);
     return 0;
 }
+
 
 
 
