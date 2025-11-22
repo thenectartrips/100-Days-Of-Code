@@ -14,7 +14,7 @@ Output 1:
 
 int main()
 {
-    int n, i;
+    int n, i ;
 
     printf("Enter the number of elements: ");
     scanf("%d", &n);
@@ -43,3 +43,4 @@ int main()
 
     return 0;
 }
+
