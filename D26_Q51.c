@@ -22,7 +22,7 @@ Output 1:
 
 int main()
 {
-    int i, j;
+    int i, j ;
 
     for (i = 5; i >= 1; i--)
     {
@@ -35,4 +35,5 @@ int main()
 
     return 0;
 }
+
 
