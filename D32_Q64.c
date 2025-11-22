@@ -18,7 +18,7 @@ Output 2:
 
 int main()
 {
-    long long num;
+    long long num ;
     int count[10] = {0};
     int digit, maxDigit, maxCount = 0;
 
@@ -48,3 +48,4 @@ int main()
 
     return 0;
 }
+
