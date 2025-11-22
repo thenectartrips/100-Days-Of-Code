@@ -39,7 +39,7 @@ int main()
     {
         for (j = 1; j <= i; j++)
         {
-            printf("*\n");
+            printf("*\n") ;
         }
         printf("\n") ;
     }
@@ -55,4 +55,5 @@ int main()
 
     return 0;
 }
+
 
