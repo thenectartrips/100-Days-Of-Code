@@ -16,7 +16,7 @@ Output 1:
 
 int main()
 {
-    int a[50], b[50], c[100];
+    int a[50], b[50], c[100] ;
     int n1, n2, i, j;
 
     printf("Enter number of elements in first array: ") ;
@@ -55,4 +55,5 @@ int main()
 
     return 0;
 }
+
 
