@@ -22,7 +22,7 @@ Output 2:
 
 int main()
 {
-    int n, i, key;
+    int n, i, key ;
 
     printf("Enter the number of elements: ");
     scanf("%d", &n);
@@ -51,3 +51,4 @@ int main()
 
     return 0;
 }
+
