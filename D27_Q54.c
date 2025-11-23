@@ -25,7 +25,7 @@ Pattern with layers of stars as shown.
 
 int main()
 {
-    int i, j, n = 4;
+    int i, j, n = 4 ;
 
     for (i = 1; i <= n; i++)
     {
@@ -47,5 +47,6 @@ int main()
 
     return 0;
 }
+
 
 
