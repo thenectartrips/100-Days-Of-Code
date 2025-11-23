@@ -19,7 +19,7 @@ Output 2:
 int main()
 {
     long long num ;
-    int count[10] = {0};
+    int count[10] = {0} ;
     int digit, maxDigit, maxCount = 0;
 
     printf("Enter an integer: ");
@@ -48,4 +48,5 @@ int main()
 
     return 0;
 }
+
 
