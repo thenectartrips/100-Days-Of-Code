@@ -15,7 +15,7 @@ Output 1:
 #include <stdio.h>
 int main()
 {
-    int i, j;
+    int i, j ;
 
     for (i = 0; i < 5; i++)
     {
@@ -28,4 +28,5 @@ int main()
 
     return 0;
 }
+
 
