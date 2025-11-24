@@ -18,7 +18,7 @@ Not perfect number
 
 int main()
 {
-    int num, i, sum = 0;
+    int num, i, sum = 0 ;
 
     printf("Enter a number: ") ;
     scanf("%d", &num);
@@ -36,4 +36,5 @@ int main()
 
     return 0;
 }
+
 
