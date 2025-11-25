@@ -15,7 +15,7 @@ Output 1:
 
 int main()
 {
-    int arr[50], n, i, pos, num;
+    int arr[50], n, i, pos, num ;
 
     printf("Enter number of elements: ");
     scanf("%d", &n);
@@ -48,3 +48,4 @@ int main()
 
     return 0;
 }
+
