@@ -20,7 +20,7 @@ Output 2:
 
 int main()
 {
-    int n, i, sum = 0;
+    int n, i, sum = 0 ;
 
     printf("Enter the number of elements: ");
     scanf("%d", &n);
@@ -41,3 +41,4 @@ int main()
 
     return 0;
 }
+
