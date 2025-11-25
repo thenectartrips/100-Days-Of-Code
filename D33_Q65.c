@@ -22,7 +22,7 @@ Output 2:
 
 int main()
 {
-    int arr[50], n, key;
+    int arr[50], n, key ;
     int low, high, mid;
 
     printf("Enter number of elements: ") ;
@@ -63,4 +63,5 @@ int main()
 
     return 0;
 }
+
 
