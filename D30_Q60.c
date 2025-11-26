@@ -14,7 +14,7 @@ Positive=2, Negative=2, Zero=1
 
 int main()
 {
-    int n, i, pos = 0, neg = 0, zero = 0;
+    int n, i, pos = 0, neg = 0, zero = 0 ;
 
     printf("Enter the number of elements: ") ;
     scanf("%d", &n);
@@ -43,5 +43,6 @@ int main()
 
     return 0;
 }
+
 
 
