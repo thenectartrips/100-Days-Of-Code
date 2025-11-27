@@ -25,7 +25,7 @@ True
 int main()
 {
     int n;
-    printf("Enter the size of the square matrix: ");
+    printf("Enter the size of the square matrix: ") ;
     scanf("%d", &n);
 
     int a[n][n];
@@ -66,3 +66,4 @@ int main()
 
     return 0;
 }
+
