@@ -16,7 +16,7 @@ Output 1:
 int main()
 {
     int n, k;
-    printf("Enter size of array: ");
+    printf("Enter size of array: ") ;
     scanf("%d", &n);
 
     int arr[n], result[n];
@@ -46,3 +46,4 @@ int main()
 
     return 0;
 }
+
