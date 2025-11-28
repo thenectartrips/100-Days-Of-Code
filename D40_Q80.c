@@ -20,7 +20,7 @@ Output 1:
 
         int main()
 {
-    int r1, c1, r2, c2;
+    int r1, c1, r2, c2 ;
 
     printf("Enter rows and columns of first matrix: ") ;
     scanf("%d %d", &r1, &c1);
@@ -85,4 +85,5 @@ Output 1:
 
     return 0;
 }
+
 
