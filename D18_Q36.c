@@ -17,7 +17,7 @@ Output 2:
 #include <stdio.h>
 
 int main(){
-    int num1, num2, i, hcf;
+    int num1, num2, i, hcf ;
     printf("Enter two positive integers: ") ;
     scanf("%d %d" , &num1, &num2);
     for(i = 1; i <= num1 && i <= num2; ++i){
@@ -29,4 +29,5 @@ int main(){
     return 0;
 
 }
+
 
