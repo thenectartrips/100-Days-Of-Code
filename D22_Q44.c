@@ -19,7 +19,7 @@ Approximate sum: 4.4
 int main()
 {
     int n, i ;
-    float sum = 0.0;
+    float sum = 0.0 ;
     int numerator = 1, denominator = 1;
 
     printf("Enter the number of terms: ") ;
@@ -40,6 +40,7 @@ int main()
 
     return 0;
 }
+
 
 
 
